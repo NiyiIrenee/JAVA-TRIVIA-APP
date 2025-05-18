@@ -32,7 +32,7 @@ Open your terminal and follow the steps below:
 
 Step 1: Clone the repository
 ```
-git clone https://github.com/marksivan/trivia-application-project.git
+git clone https://github.com/NiyiIrenee/JAVA-TRIVIA-APP.git
 ```
 
 Step 2: Navigate to the project directory
