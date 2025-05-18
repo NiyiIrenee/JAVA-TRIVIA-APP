@@ -1,6 +1,6 @@
 #  TRIVIA APPLICATION
 
-Created and Designed by: **Irenee Niyibaho & Mark Sivan Tamakloe**
+Created and Designed by: **Irenee Niyibaho**
 
 This is both a Terminal-based and GUI-based Java trivia game application with a bank of questions in different fields that adopts our real-time adaptive questioning and recommendation system. This local app models the user experience based on real world experience. Questions dynamically adjust in difficulty based on a player's performance to maintain an engaging and challenging experience.
 
@@ -94,7 +94,7 @@ trivia-application-project/
 ```
 ## License
 
-    Copyright [2025] [Irenee Niyibaho & Mark S. Tamakloe]
+    Copyright [2025] [Irenee Niyibaho]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
