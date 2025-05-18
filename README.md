@@ -91,6 +91,8 @@ trivia-application-project/
 │   │       └── Settings.java
 │
 └── README.md
+|
+|___ users.properties
 ```
 ## License
 
